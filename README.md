@@ -17,3 +17,6 @@ This Java program accepts any sequence of bits as an input, including text, audi
 
 ## Arduino 2D Platform Game
 A 2D platform game written in Java and implements an analog joystick and flame sensor for interactive gameplay through an Arduino coded using C++.
+
+## Chat Room
+A chat server and client developed in python which allows client users to connect and to the chat server through the provided host and port and message one another. The server and clients also communicate through several control messages for events such as disconnections and errors.
