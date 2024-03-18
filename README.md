@@ -23,3 +23,6 @@ A chat server and client developed in python which allows client users to connec
 
 ## Minesweeper
 A classic minesweeper game developed in C++ leveraging Qt as a graphical framework. This application implements OOP principles to achieve a robust and modular minesweeper framework featuring a 30x16 tile array for opening and flagging tiles and win and loss popup dialog menus.
+
+## Cryptocurrency Analyzer
+A C project developed as part of a group assignment. This application launches a GUI which generates charts based on the users selection of cyptocurrencies over a select period of time. Statistics on the select cryptocurrencies are fetched by accessing the CoinGecko API. This project focuses on the effective implementation of design pattern through the use of the page object model (POM) for organizing the GUI compnents, and a proxy class to protect sensitive user-information in the login class.
