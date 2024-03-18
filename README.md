@@ -20,3 +20,6 @@ A 2D platform game written in Java and implements an analog joystick and flame s
 
 ## Chat Room
 A chat server and client developed in python which allows client users to connect and to the chat server through the provided host and port and message one another. The server and clients also communicate through several control messages for events such as disconnections and errors.
+
+## Minesweeper
+A classic minesweeper game developed in C++ leveraging Qt as a graphical framework. This application implements OOP principles to achieve a robust and modular minesweeper framework featuring a 30x16 tile array for opening and flagging tiles and win and loss popup dialog menus.
