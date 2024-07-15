@@ -1,0 +1,12 @@
+user1
+100
+user2
+150
+user3
+200
+user4
+250
+user5
+300
+user6
+700

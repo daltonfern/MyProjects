@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/menuBackground.png</file>
+        <file>logo.ico</file>
+        <file>imgs/gameBackground.png</file>
+    </qresource>
+</RCC>
