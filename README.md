@@ -6,9 +6,6 @@ This Java program generates a sorted circular array containing cells. This array
 ## Snake
 This Java program generates a doubly linked list of nodes that are either empty or contain an item. This structure of nodes creates a game board for the snake to maneuver while growing, shrinking, and dying depending on the item the snake comes in contact with.
 
-## Exponent Calculator
-This C program accepts a base value and exponent value and calculates the exponential number using a recursive algorithm in logarithmic time.
-
 ## Sentence Processor
 This C program accepts any number of sentences and processes each sentence into a linked list of sentence objects which each, points to a linked list of word objects consisting of each word in a given sentence. As the linked list must handle any number of sentences, each object uses dynamically allocated memory and is reallocated into memory when performing a word search or sentence deletion.
 
