@@ -21,5 +21,8 @@ A chat server and client developed in Python which allows client users to connec
 ## Minesweeper
 A classic minesweeper game developed in C++ leveraging Qt as a graphical framework. This application implements OOP principles to achieve a robust and modular minesweeper framework featuring a 30x16 tile array for opening and flagging tiles and win and loss popup dialog menus.
 
+## Tetris
+A classic Tetris game developed in C++ with Qt as the graphical framework. This project was created as part of a group assignment focused on leveraging OOP principles to build a large project with an interactive and engaging gaming experience with all the classic Tetris features.
+
 ## Cryptocurrency Analyzer
 A Java project developed as part of a group assignment. This application launches a GUI that generates charts based on the users' selection of cryptocurrencies over a select period. Statistics on the select cryptocurrencies are fetched by accessing the CoinGecko API. This project focuses on the effective implementation of a design pattern through the use of the page object model (POM) for organizing the GUI components, and a proxy class to protect sensitive user information in the login class.
