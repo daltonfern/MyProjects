@@ -1,13 +1,11 @@
 ---
-name: Template
-about: Issue Creating
+name: Create Issue
+about: ''
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
-## Story : 
 
 ## User Story:
 
