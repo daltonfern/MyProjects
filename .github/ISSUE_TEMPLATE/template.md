@@ -1,6 +1,6 @@
 ---
 name: Create Issue
-about: ''
+about: New Issue
 title: ''
 labels: ''
 assignees: ''
